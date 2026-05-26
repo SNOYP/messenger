@@ -1,0 +1,4 @@
+com\example\messengerserver\UserController.class
+com\example\messengerserver\SecurityConfig.class
+com\example\messengerserver\UserRepository.class
+com\example\messengerserver\User.class
