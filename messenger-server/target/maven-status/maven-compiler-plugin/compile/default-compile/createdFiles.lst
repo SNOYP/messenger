@@ -1,4 +1,8 @@
+com\example\messengerserver\ChatRepository.class
+com\example\messengerserver\Message.class
 com\example\messengerserver\UserController.class
+com\example\messengerserver\Chat.class
 com\example\messengerserver\SecurityConfig.class
+com\example\messengerserver\MessageRepository.class
 com\example\messengerserver\UserRepository.class
 com\example\messengerserver\User.class
